@@ -17,7 +17,7 @@ This project implements an end-to-end pipeline for lung cancer detection. It lev
 ## 🛠 Tech Stack
 - **Frameworks**: [TensorFlow](https://tensorflow.org) or [PyTorch](https://pytorch.org)
 - **Image Processing**: [OpenCV](https://opencv.org), [Scikit-Image](https://scikit-image.org)
-- **Deployment**: [Streamlit](https://streamlit.io) or [FastAPI](https://tiangolo.com)
+- **Deployment**: [Gradio](https://gradio.app) or [FastAPI](https://tiangolo.com)
 - **Environment**: Anaconda / Python 3.9+
 
 ## 📥 Installation
