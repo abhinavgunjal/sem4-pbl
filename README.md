@@ -34,9 +34,8 @@ This project implements an end-to-end pipeline for lung cancer detection. It lev
    ```
 
 ## 📊 Dataset
-This project is built using datasets like **LIDC-IDRI** or **LUNA16**. You can download them here:
-- [LIDC-IDRI on TCIA](https://cancerimagingarchive.net)
-- [LUNA16 Dataset](https://grand-challenge.org)
+This project is built using dataset **Lung Cancer Surve Dataset**. You can download them here:
+- [Dataset]([https://grand-challenge.org](https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset))
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE.md).
